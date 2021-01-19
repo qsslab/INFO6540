@@ -2,5 +2,7 @@ A data story.
 Once upon a time, some data was created by a random internet user and abandoned in a sea of unstructured data.
 An algorithm passed by and decided to add xml tags to the text, and so it became semi-structured.
 A data manager stumbled upon the data and thought it would be relevant for the database users, and so she decided to add it to her relational database. 
-And so it became structured. 
+And so it became structured.
+And then a cat walked over the data manager's keyboard.
+The cat typed kjdsfacm;oi34dc.
 The end.
