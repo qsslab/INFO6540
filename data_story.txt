@@ -1,10 +1,17 @@
 A data story.
 Once upon a time, some data was created by a random internet user and abandoned in a sea of unstructured data.
 An algorithm passed by and decided to add xml tags to the text, and so it became semi-structured.
-A data manager stumbled upon the data and thought it would be relevant for the database users, and so she decided to add it to her relational database. 
-And so it became structured.
-And then a cat walked over the data manager's keyboard.
+A data manager stumbled upon the data and thought it would be relevant for the database users, so she decided to add it to her relational database. 
+So it became structured.
+Then a cat walked over the data manager's keyboard.
 The cat typed kjdsfacm;oi34dc.
+The end?
 I then thought to myself, "what if I could make this cat do something useful"?
 So I asked the cat politely to finish all of my assignments for me and I sat in amazement watching the cat type away.
 Later I received my mark of F- and decided that I need to reevaluate my life decisions. 
+Yeah no, the cat was actually a witch and decaffenated all the coffee on Earth.
+The world's productivity plummeted.
+No one really cared though, and now everyone spends all day picking mushrooms.
+Of couse, trained mycologists check that they're safe for consumption.
+In the end, this was for the best and everyone thanked the cat.
+Ave cat.
